@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\jmegl\\source\\repos\\CodeLouisvilleDemos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\jmegl\\source\\repos\\CodeLouisvilleDemos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\jmegl\\source\\repos\\CodeLouisvilleDemos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\Projects\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\jmegl\\source\\repos\\CodeLouisvilleDemos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\jmegl\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\jmegl\\source\\repos\\CodeLouisvilleDemos\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
